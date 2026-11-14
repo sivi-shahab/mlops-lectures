@@ -1,0 +1,14 @@
+# Third-party source infographics (not redistributable)
+*.jfif
+# Generated data / artifacts
+data/synth/*.parquet
+data/processed/
+mlruns/
+mlartifacts/
+# Env / local
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.claude/
+graft/

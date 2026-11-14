@@ -1,0 +1,56 @@
+# Local MLOps stack for all modules. Credentials are local-only defaults; override via .env.
+services:
+  postgres:
+    image: postgres:16.4
+    environment:
+      POSTGRES_USER: ${PG_USER:-mlops}
+      POSTGRES_PASSWORD: ${PG_PASSWORD:-mlops}
+      POSTGRES_DB: mlops
+    ports: ["5432:5432"]
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${PG_USER:-mlops}"]
+      interval: 5s
+      retries: 10
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.16.2
+    depends_on:
+      postgres: {condition: service_healthy}
+    # ponytail: installs psycopg2 at start; bake a custom image if startup time matters.
+    command: >
+      bash -c "pip install -q psycopg2-binary==2.9.9 &&
+      mlflow server --host 0.0.0.0 --port 5000
+      --backend-store-uri postgresql://${PG_USER:-mlops}:${PG_PASSWORD:-mlops}@postgres:5432/mlops
+      --artifacts-destination /mlartifacts"
+    ports: ["5000:5000"]
+    volumes: [mlartifacts:/mlartifacts]
+
+  prometheus:
+    image: prom/prometheus:v2.54.1
+    volumes: [./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro]
+    ports: ["9090:9090"]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+
+  grafana:
+    image: grafana/grafana:11.2.0
+    depends_on: [prometheus]
+    ports: ["3000:3000"]
+    volumes: [grafana:/var/lib/grafana]
+
+  airflow:
+    profiles: [orchestration]   # enable from Module 4: docker compose --profile orchestration up -d
+    image: apache/airflow:2.10.2-python3.11
+    command: standalone
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      MLFLOW_TRACKING_URI: http://mlflow:5000
+    ports: ["8080:8080"]
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./:/opt/project
+
+volumes:
+  pgdata:
+  mlartifacts:
+  grafana:

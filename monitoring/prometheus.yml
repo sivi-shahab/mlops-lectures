@@ -1,0 +1,13 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+# rule_files: [alert_rules.yml]   # added in Module 9
+
+scrape_configs:
+  - job_name: fraud-api            # Module 8 API running on the host
+    static_configs:
+      - targets: ["host.docker.internal:8000"]
+  - job_name: credit-api
+    static_configs:
+      - targets: ["host.docker.internal:8001"]
