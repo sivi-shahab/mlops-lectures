@@ -1,5 +1,7 @@
 # E11: Expert Capstone — Defend a Bank‑Grade Scoring Platform
 
+> Professional option: replace this module with the 40 h [Industry Capstone](../capstone/industry/README.md) (industry benchmarks, MDD, validation report, workshop paper).
+
 - **Image source:** lifecycle [Gambar 1, 2]; scope `[TAMBAHAN]`
 - **Duration:** 10 hours | **Level:** Expert
 - **Goal:** extend the intermediate capstone into a platform and defend it in a simulated **AI committee + model validation + OJK‑style examination** panel.

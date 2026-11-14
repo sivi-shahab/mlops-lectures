@@ -20,6 +20,7 @@ A **project‑based MLOps syllabus** for banking/fintech, derived from a 12‑im
 | 7. Assessment, weekly schedule, dependency map | [docs/03-assessment-and-schedule.md](docs/03-assessment-and-schedule.md) |
 | Reading list: books, papers, docs, GitHub repos, regulation (per module) | [docs/05-reading-list.md](docs/05-reading-list.md) |
 | Lectures, videos, blogs & repos (per module) | [docs/07-learning-resources.md](docs/07-learning-resources.md) · expert: [expert/learning-resources.md](expert/learning-resources.md) |
+| **Professional industry capstone** (benchmarks, protocol, MDD, workshop paper) + research | [capstone/industry/README.md](capstone/industry/README.md) · [docs/08-industry-capstone-research.md](docs/08-industry-capstone-research.md) |
 | Risks, assumptions, clarifying questions | [docs/04-risks-assumptions-questions.md](docs/04-risks-assumptions-questions.md) |
 
 ## Levels
