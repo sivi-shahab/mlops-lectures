@@ -39,6 +39,25 @@
 | 12 | M13 (8) | Capstone CP2–CP4 | Closed‑loop demo, governance package, presentation | 8 |
 | | | | **Total** | **96** |
 
+## Weekly study plan — watch & read (≈ 1–1.5 h/week, included in the hours above)
+
+| Week | Watch 🎥 | Read / do ✍️🎓 |
+|------|----------|---------------|
+| 1 | [Andrew Ng on MLOps](https://www.youtube.com/watch?v=06-AZXmwHjo) · [DVC hands-on](https://www.youtube.com/watch?v=kLKBcPonMYw) | Stripe Radar blog · Huyen *DMLS* ch. 1–2 |
+| 2 | [Feature stores (PyData)](https://www.youtube.com/watch?v=_omcXenypmo) | Feast workshop part 1 · Fraud Handbook ch. 3 |
+| 3 | [MLflow tutorial](https://www.youtube.com/watch?v=6ngxBkx05Fs) · [Airflow course, first hour](https://www.youtube.com/watch?v=K9AnJ9_ZAXE) | MLflow getting started · Shankar et al. interview study |
+| 4 | [Detecting financial fraud at scale](https://www.youtube.com/watch?v=5v0RgVlKiXI) | Fraud Handbook ch. 4–5 · Saito & Rehmsmeier (PR vs ROC) |
+| 5 | [SHAP talk](https://www.youtube.com/watch?v=B-c8tIgchu0) | Toad scorecard tutorial · Siddiqi validation chapter |
+| 6 | [21 fairness definitions](https://www.youtube.com/watch?v=jIXIuYdnyyk) · [GitHub Actions CI/CD](https://www.youtube.com/watch?v=R8_veQiYBjI) | GWU Responsible ML lecture on bias · CD4ML |
+| 7 | [Docker course (selected chapters)](https://www.youtube.com/watch?v=fqMOX6JJhGo) · [FastAPI course (selected)](https://www.youtube.com/watch?v=0sOvCWFmrtA) | FastAPI tutorial · MLflow registry docs |
+| 8 | [Prometheus explained](https://www.youtube.com/watch?v=h4Sl21AKiDg) | Evidently course module 1–2 |
+| 9 | [Evidently course playlist (drift lessons)](https://www.youtube.com/playlist?list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF) · [FSDL Lecture 6](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) | Huyen *DMLS* ch. 8–9 |
+| 10 | [Sculley — ML technical debt](https://www.youtube.com/watch?v=V18AsBIHlWs) | OJK AI governance guide · Model Cards paper · SR 11‑7 |
+| 11 | — | OWASP ML Top 10 · UU PDP 27/2022 key articles |
+| 12 | [MLOps Zoomcamp project demos](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) | Zoomcamp project rubric |
+
+Full per-module lists: [learning resources](07-learning-resources.md) · [reading list](05-reading-list.md).
+
 ## Module dependency map
 
 ```mermaid

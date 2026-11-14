@@ -34,3 +34,4 @@
   - Non‑deterministic XGBoost due to `n_jobs` / `tree_method` without seed.
 - **Stretch goal:** Add Optuna hyperparameter search with each trial as a nested MLflow run; compare with Weights & Biases [Gambar 6] for the same 10 trials.
 - **Reading & reference repos:** [docs/05-reading-list.md#m03](../docs/05-reading-list.md#m03) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** 🎥 [MLflow tutorial](https://www.youtube.com/watch?v=6ngxBkx05Fs) · 🎓 [MLflow getting started](https://mlflow.org/docs/latest/getting-started/index.html) · 💻 [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) — full list: [07-learning-resources.md#m03](../docs/07-learning-resources.md#m03)

@@ -26,3 +26,4 @@
   - Returning raw scores/explanations to external callers (eases extraction).
 - **Stretch goal:** Simulate an adaptive attacker over several retraining cycles and show adversarial drift in E03's monitoring.
 - **Reading:** [reading-list.md#e04](reading-list.md#e04)
+- **Lectures, videos, blogs & repos:** 🎓 [MITRE ATLAS](https://atlas.mitre.org) · 🎓 [ART docs](https://adversarial-robustness-toolbox.readthedocs.io/) — full list: [learning-resources.md#e04](learning-resources.md#e04)

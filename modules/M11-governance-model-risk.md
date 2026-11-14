@@ -36,3 +36,4 @@
   - Citing regulations without clause references or with outdated versions — always confirm with Compliance.
 - **Stretch goal:** Generate the model card automatically from MLflow metadata with a Jinja2 template in CI and fail CI if any section is empty.
 - **Reading & reference repos:** [docs/05-reading-list.md#m11](../docs/05-reading-list.md#m11) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** ✍️ [OJK AI governance guide](https://ojk.go.id/id/Publikasi/Roadmap-dan-Pedoman/Perbankan/Pages/Tata-Kelola-Kecerdasan-Artifisial-Perbankan-Indonesia.aspx) · 🎓 [GWU Responsible ML](https://jphall663.github.io/GWU_rml/) — full list: [07-learning-resources.md#m11](../docs/07-learning-resources.md#m11)

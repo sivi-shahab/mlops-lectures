@@ -27,3 +27,4 @@
   - Sending customer PII to an external API without a legal basis and DPIA.
 - **Stretch goal:** LLM‑as‑judge calibrated against human ratings (report agreement, e.g., Cohen's κ).
 - **Reading:** [reading-list.md#e10](reading-list.md#e10)
+- **Lectures, videos, blogs & repos:** ✍️ [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) · ✍️ [Monzo GenAI + predictive](https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime) · 🎓 [promptfoo docs](https://www.promptfoo.dev/docs/intro/) — full list: [learning-resources.md#e10](learning-resources.md#e10)

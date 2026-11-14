@@ -29,3 +29,4 @@
   - Manual `kubectl apply` drifting from Git.
 - **Stretch goal:** Multi‑model serving (fraud champion + challenger + credit) in one Triton instance with per‑model metrics.
 - **Reading:** [reading-list.md#e07](reading-list.md#e07)
+- **Lectures, videos, blogs & repos:** 🎥 [Argo CD](https://www.youtube.com/watch?v=MeU5_k9ssrs) · 🎥 [SLIs/SLOs/SLAs](https://www.youtube.com/watch?v=tEylFyxbDLE) · 🎓 [Triton user guide](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html) — full list: [learning-resources.md#e07](learning-resources.md#e07)

@@ -32,3 +32,4 @@
   - Heavy compute inside the Airflow scheduler container.
 - **Stretch goal:** Port the fraud DAG to Kubeflow Pipelines or Prefect and write a 1‑page comparison (ops overhead, UI, retries).
 - **Reading & reference repos:** [docs/05-reading-list.md#m04](../docs/05-reading-list.md#m04) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** 🎥 [Airflow full course](https://www.youtube.com/watch?v=K9AnJ9_ZAXE) · 🎓 [Airflow fundamentals](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html) — full list: [07-learning-resources.md#m04](../docs/07-learning-resources.md#m04)

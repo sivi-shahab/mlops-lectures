@@ -27,3 +27,4 @@
   - Same controls for every model regardless of risk tier → bottlenecks.
 - **Stretch goal:** A model inventory web view (read‑only) backed by PostgreSQL showing tier, status, last validation, open findings.
 - **Reading:** [reading-list.md#e09](reading-list.md#e09)
+- **Lectures, videos, blogs & repos:** ✍️ [OJK AI governance guide](https://ojk.go.id/id/Publikasi/Roadmap-dan-Pedoman/Perbankan/Pages/Tata-Kelola-Kecerdasan-Artifisial-Perbankan-Indonesia.aspx) · 🎓 [OPA docs](https://www.openpolicyagent.org/docs/latest/) — full list: [learning-resources.md#e09](learning-resources.md#e09)

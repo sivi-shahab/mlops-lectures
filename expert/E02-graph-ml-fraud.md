@@ -28,3 +28,4 @@
   - Using network bad rate in credit without checking fairness (proxy for neighborhood/ethnicity).
 - **Stretch goal:** Temporal GNN (TGN) or heterogeneous GNN (HGT) and compare with GraphSAGE.
 - **Reading:** [reading-list.md#e02](reading-list.md#e02)
+- **Lectures, videos, blogs & repos:** 🎓 [Stanford CS224W](https://web.stanford.edu/class/cs224w/) · 🎥 [CS224W Lecture 1.1](https://www.youtube.com/watch?v=JAB_plj2rbA) · 🎓 [Neo4j GraphAcademy](https://graphacademy.neo4j.com/) — full list: [learning-resources.md#e02](learning-resources.md#e02)

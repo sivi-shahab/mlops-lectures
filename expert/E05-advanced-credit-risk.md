@@ -29,3 +29,4 @@
   - Monotone constraints that contradict data without business justification.
 - **Stretch goal:** Compare a gradient‑boosted survival model (e.g., XGBoost AFT or random survival forest) against discrete‑time logistic hazard.
 - **Reading:** [reading-list.md#e05](reading-list.md#e05)
+- **Lectures, videos, blogs & repos:** 🎓 [InterpretML/EBM](https://interpret.ml/docs/) · 🎓 [lifelines](https://lifelines.readthedocs.io/en/latest/) · ✍️ [Nubank transformers](https://building.nubank.com/how-nubank-uses-transformers-to-model-financial-habits-at-scale/) — full list: [learning-resources.md#e05](learning-resources.md#e05)

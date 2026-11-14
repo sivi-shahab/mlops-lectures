@@ -38,3 +38,4 @@
   - Forgetting to revert traffic filters/rules when rolling back [Gambar 12].
 - **Stretch goal:** Do the canary with Argo Rollouts on `kind` using an analysis template that queries Prometheus for error rate.
 - **Reading & reference repos:** [docs/05-reading-list.md#m10](../docs/05-reading-list.md#m10) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** 🎥 [FSDL 2022 Lecture 6: Continual Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) · 🎥 [Argo CD (stretch)](https://www.youtube.com/watch?v=MeU5_k9ssrs) — full list: [07-learning-resources.md#m10](../docs/07-learning-resources.md#m10)

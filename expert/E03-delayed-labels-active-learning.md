@@ -26,3 +26,4 @@
   - Treating "not yet charged back" as legitimate.
 - **Stretch goal:** Online conformal (adaptive conformal inference) that keeps coverage under drift.
 - **Reading:** [reading-list.md#e03](reading-list.md#e03)
+- **Lectures, videos, blogs & repos:** 🎥 [Conformal prediction tutorial](https://www.youtube.com/watch?v=nql000Lu_iE) · 🎓 [NannyML docs](https://nannyml.readthedocs.io/) · 💻 [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) — full list: [learning-resources.md#e03](learning-resources.md#e03)

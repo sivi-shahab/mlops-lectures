@@ -26,3 +26,4 @@
   - Optimizing spend uplift and ignoring default uplift.
 - **Stretch goal:** Contextual bandit for step‑up authentication choice with a safety constraint on fraud loss.
 - **Reading:** [reading-list.md#e06](reading-list.md#e06)
+- **Lectures, videos, blogs & repos:** 🎓 [Brady Neal causal course](https://www.bradyneal.com/causal-inference-course) · 🎥 [Athey NeurIPS tutorial](https://www.youtube.com/watch?v=yKs6msnw9m8) · 🎓 [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/) — full list: [learning-resources.md#e06](learning-resources.md#e06)

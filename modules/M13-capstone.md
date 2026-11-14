@@ -21,3 +21,4 @@
   - Governance docs out of sync with deployed model versions.
 - **Stretch goal:** Deploy the full stack on a `kind` cluster with Helm and Argo Rollouts.
 - **Reading & reference repos:** [docs/05-reading-list.md#m13](../docs/05-reading-list.md#m13) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** 🎓 [MLOps Zoomcamp project](https://github.com/DataTalksClub/mlops-zoomcamp) · 🎥 [Zoomcamp playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) — full list: [07-learning-resources.md#m13](../docs/07-learning-resources.md#m13)

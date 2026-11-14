@@ -34,3 +34,4 @@
   - Secrets (MLflow / registry credentials) echoed in logs.
 - **Stretch goal:** Add CML or a PR comment bot that posts the metric diff between the PR model and the current champion.
 - **Reading & reference repos:** [docs/05-reading-list.md#m07](../docs/05-reading-list.md#m07) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** 🎥 [GitHub Actions CI/CD](https://www.youtube.com/watch?v=R8_veQiYBjI) · 🎓 [Actions quickstart](https://docs.github.com/en/actions/writing-workflows/quickstart) — full list: [07-learning-resources.md#m07](../docs/07-learning-resources.md#m07)

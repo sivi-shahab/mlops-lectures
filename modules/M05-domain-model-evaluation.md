@@ -36,3 +36,4 @@
   - Using SMOTE before the split → synthetic leakage.
 - **Stretch goal:** Implement a simple reject‑inference method (parcelling or fuzzy augmentation) and compare OOT KS with and without it.
 - **Reading & reference repos:** [docs/05-reading-list.md#m05](../docs/05-reading-list.md#m05) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** 🎥 [Detecting financial fraud at scale](https://www.youtube.com/watch?v=5v0RgVlKiXI) · 🎓 [Fraud Detection Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) · 🎓 [Toad scorecard tutorial](https://toad.readthedocs.io/en/latest/tutorial.html) — full list: [07-learning-resources.md#m05](../docs/07-learning-resources.md#m05)

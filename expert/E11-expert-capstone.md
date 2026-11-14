@@ -57,3 +57,4 @@
 Each criterion scored 1–4 using the [expert rubric](README.md#expert-rubric-per-module). Pass ≥ 75 %.
 
 - **Reading:** [reading-list.md#e11](reading-list.md#e11)
+- **Lectures, videos, blogs & repos:** 🎓 [SRE postmortem culture](https://sre.google/sre-book/postmortem-culture/) · ✍️ [ML system design case studies](https://www.evidentlyai.com/ml-system-design) — full list: [learning-resources.md#e11](learning-resources.md#e11)

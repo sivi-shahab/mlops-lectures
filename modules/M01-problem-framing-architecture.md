@@ -36,3 +36,4 @@
   - Skipping design → rework later; no rollback plan → high risk [Gambar 3].
 - **Stretch goal:** Add a capacity estimate (peak TPS, e.g., 500 TPS) and derive the number of API replicas needed at the measured per‑request latency.
 - **Reading & reference repos:** [docs/05-reading-list.md#m01](../docs/05-reading-list.md#m01) (⭐ = read first)
+- **Lectures, videos, blogs & repos:** 🎥 [Andrew Ng on MLOps](https://www.youtube.com/watch?v=06-AZXmwHjo) · ✍️ [Stripe Radar](https://stripe.com/blog/how-we-built-it-stripe-radar) · 🎓 [CMU MLiP book](https://mlip-cmu.github.io/book/) — full list: [07-learning-resources.md#m01](../docs/07-learning-resources.md#m01)

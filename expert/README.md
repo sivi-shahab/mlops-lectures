@@ -37,7 +37,7 @@ Builds on the [intermediate track](../README.md). Everything here is `[TAMBAHAN]
 | E11 | [Expert capstone](E11-expert-capstone.md) | 10 | all |
 | | **Total** | **80** | |
 
-Readings for every module: [expert/reading-list.md](reading-list.md).
+Readings for every module: [reading-list.md](reading-list.md) · lectures, videos, blogs & repos: [learning-resources.md](learning-resources.md).
 
 ## Weekly schedule
 
@@ -54,6 +54,23 @@ Readings for every module: [expert/reading-list.md](reading-list.md).
 | 9 | E09 (2) + E10 (4) + E11 (2) | Policy‑as‑code gates; LLM copilot + eval suite; capstone plan | 8 |
 | 10 | E11 (8) | Expert capstone defense | 8 |
 | | | **Total** | **80** |
+
+## Weekly study plan — watch & read (included in the hours above)
+
+| Week | Watch 🎥 | Read / do ✍️🎓 |
+|------|----------|---------------|
+| 1 | [Kafka crash course](https://www.youtube.com/watch?v=R873BlNVUB4) | Confluent Flink 101 (event time, watermarks) · Kleppmann *DDIA* ch. 11 |
+| 2 | [CS224W Lecture 1.1](https://www.youtube.com/watch?v=JAB_plj2rbA) · [GNNs from the ground up](https://www.youtube.com/watch?v=GXhBEj1ZtE8) | BRIGHT paper · Nubank streaming blog |
+| 3 | [Conformal prediction tutorial](https://www.youtube.com/watch?v=nql000Lu_iE) | Dal Pozzolo et al. (feedback vs delayed) · Angelopoulos & Bates |
+| 4 | — | Kireev et al. NDSS 2023 · MITRE ATLAS case studies |
+| 5 | — | IFRS 9 survival tutorial (arXiv 2507.15441) · InterpretML EBM docs |
+| 6 | [Athey — counterfactual inference](https://www.youtube.com/watch?v=yKs6msnw9m8) · [Brady Neal lectures 1–3](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0) | Causal Inference for the Brave and True ch. 1–7 |
+| 7 | [Argo CD](https://www.youtube.com/watch?v=MeU5_k9ssrs) · [SLIs/SLOs/SLAs](https://www.youtube.com/watch?v=tEylFyxbDLE) | SRE Workbook — alerting on SLOs · Triton FIL backend README |
+| 8 | [Federated learning (Google I/O)](https://www.youtube.com/watch?v=89BGjQYA0uE) | DeepLearning.AI Intro to FL · Abadi et al. DP‑SGD |
+| 9 | — | OJK AI governance guide · Hamel Husain — evals · Monzo GenAI + predictive |
+| 10 | — | SRE postmortem culture |
+
+Full per-module lists: [learning-resources.md](learning-resources.md) · [reading-list.md](reading-list.md).
 
 ## Dependency map
 

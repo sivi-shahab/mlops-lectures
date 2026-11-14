@@ -29,3 +29,4 @@
   - Velocity features that include the current transaction at serving but not at training (or vice versa).
 - **Stretch goal:** Replace Flink with a streaming database (RisingWave) or Bytewax and compare operational complexity and latency.
 - **Reading:** [reading-list.md#e01](reading-list.md#e01)
+- **Lectures, videos, blogs & repos:** 🎓 [Confluent Flink 101](https://developer.confluent.io/courses/apache-flink/intro/) · 🎥 [Kafka crash course](https://www.youtube.com/watch?v=R873BlNVUB4) · ✍️ [Nubank streaming](https://building.nubank.com/avalanche-stack-and-real-time-streaming-applications-at-nu/) — full list: [learning-resources.md#e01](learning-resources.md#e01)

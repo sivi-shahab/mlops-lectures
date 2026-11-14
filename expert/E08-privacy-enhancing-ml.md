@@ -26,3 +26,4 @@
   - Sharing synthetic data generated from small segments (high re‑identification risk).
 - **Stretch goal:** Vertical FL between a bank and an e‑commerce partner on shared customers (private set intersection + split learning) — design doc only.
 - **Reading:** [reading-list.md#e08](reading-list.md#e08)
+- **Lectures, videos, blogs & repos:** 🎥 [Federated learning (Google I/O)](https://www.youtube.com/watch?v=89BGjQYA0uE) · 🎓 [Intro to FL (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/intro-to-federated-learning/) · 🎓 [Opacus tutorials](https://opacus.ai/tutorials/) — full list: [learning-resources.md#e08](learning-resources.md#e08)
