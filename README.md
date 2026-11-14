@@ -21,6 +21,15 @@ A **project‑based MLOps syllabus** for banking/fintech, derived from a 12‑im
 | Reading list: books, papers, docs, GitHub repos, regulation (per module) | [docs/05-reading-list.md](docs/05-reading-list.md) |
 | Risks, assumptions, clarifying questions | [docs/04-risks-assumptions-questions.md](docs/04-risks-assumptions-questions.md) |
 
+## Levels
+
+| Level | Track | Duration | Entry |
+|-------|-------|----------|-------|
+| Intermediate | M01–M13 (this page) | 12 weeks × 8 h = 96 h | Python, SQL, scikit-learn, Docker basics |
+| **Expert** | [E01–E11 — expert/README.md](expert/README.md) | 10 weeks × 8 h = 80 h | Intermediate track passed or [entry assessment](expert/README.md#entry-assessment) |
+
+Expert adds: streaming features (Kafka + Flink), graph ML for fraud rings, delayed-label learning + conformal routing, adversarial red-teaming, glass-box GBM + lifetime PD + PSAK 109 ECL, causal uplift + off-policy evaluation, ONNX/Triton + GitOps + SLOs, federated learning + DP + synthetic data, OJK-aligned policy-as-code governance, and an LLM investigator copilot with evals. Research basis: [docs/06-expert-research-report.md](docs/06-expert-research-report.md).
+
 ## Modules
 
 Lifecycle from the images: `Data → Train → Track → Register → Serve → Monitor → Retrain` [Gambar 1, 2].
