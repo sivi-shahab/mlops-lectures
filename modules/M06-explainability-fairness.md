@@ -34,3 +34,4 @@
   - Computing fairness only on the approved population.
   - Running SHAP inline for every fraud transaction and blowing the latency budget.
 - **Stretch goal:** Add a counterfactual ("what would change the decision") for 10 declines using DiCE and discuss feasibility constraints.
+- **Reading & reference repos:** [docs/05-reading-list.md#m06](../docs/05-reading-list.md#m06) (⭐ = read first)

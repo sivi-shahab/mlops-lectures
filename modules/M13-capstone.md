@@ -20,3 +20,4 @@
   - Running out of time on Kubernetes — it is optional; docker compose is sufficient.
   - Governance docs out of sync with deployed model versions.
 - **Stretch goal:** Deploy the full stack on a `kind` cluster with Helm and Argo Rollouts.
+- **Reading & reference repos:** [docs/05-reading-list.md#m13](../docs/05-reading-list.md#m13) (⭐ = read first)

@@ -39,3 +39,4 @@
   - PSI with bins defined on the current window instead of the reference window.
   - Alert fatigue from per‑feature KS tests on large samples (p‑values always tiny) — use effect size (PSI/Wasserstein) thresholds.
 - **Stretch goal:** Implement NannyML CBPE to estimate fraud model precision before labels arrive and compare it to realized precision once labels mature.
+- **Reading & reference repos:** [docs/05-reading-list.md#m09](../docs/05-reading-list.md#m09) (⭐ = read first)

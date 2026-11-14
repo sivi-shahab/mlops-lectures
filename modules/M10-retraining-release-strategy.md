@@ -37,3 +37,4 @@
   - Canary split by request (not entity) → the same card scored by both models inconsistently.
   - Forgetting to revert traffic filters/rules when rolling back [Gambar 12].
 - **Stretch goal:** Do the canary with Argo Rollouts on `kind` using an analysis template that queries Prometheus for error rate.
+- **Reading & reference repos:** [docs/05-reading-list.md#m10](../docs/05-reading-list.md#m10) (⭐ = read first)

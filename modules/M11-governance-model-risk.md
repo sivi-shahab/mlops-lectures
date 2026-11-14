@@ -35,3 +35,4 @@
   - Treating fraud models as "not credit, so no governance".
   - Citing regulations without clause references or with outdated versions — always confirm with Compliance.
 - **Stretch goal:** Generate the model card automatically from MLflow metadata with a Jinja2 template in CI and fail CI if any section is empty.
+- **Reading & reference repos:** [docs/05-reading-list.md#m11](../docs/05-reading-list.md#m11) (⭐ = read first)

@@ -35,3 +35,4 @@
   - Treating credit scoring as real‑time only and forgetting the monthly portfolio re‑score needed for ECL.
   - Skipping design → rework later; no rollback plan → high risk [Gambar 3].
 - **Stretch goal:** Add a capacity estimate (peak TPS, e.g., 500 TPS) and derive the number of API replicas needed at the measured per‑request latency.
+- **Reading & reference repos:** [docs/05-reading-list.md#m01](../docs/05-reading-list.md#m01) (⭐ = read first)

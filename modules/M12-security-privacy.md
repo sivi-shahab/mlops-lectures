@@ -34,3 +34,4 @@
   - `.env` committed to Git.
   - Returning detailed scores and feature contributions to external clients → enables model probing by fraudsters.
 - **Stretch goal:** Add differential‑privacy‑style noise or k‑anonymity check (k ≥ 5 on quasi‑identifiers) to an analytics extract shared with business users.
+- **Reading & reference repos:** [docs/05-reading-list.md#m12](../docs/05-reading-list.md#m12) (⭐ = read first)

@@ -35,3 +35,4 @@
   - Survivorship / reject bias: metrics on approved‑only population overstate performance on through‑the‑door applicants.
   - Using SMOTE before the split → synthetic leakage.
 - **Stretch goal:** Implement a simple reject‑inference method (parcelling or fuzzy augmentation) and compare OOT KS with and without it.
+- **Reading & reference repos:** [docs/05-reading-list.md#m05](../docs/05-reading-list.md#m05) (⭐ = read first)

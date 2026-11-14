@@ -41,3 +41,4 @@
   - Using `transition_model_version_stage` in new code (deprecated) — use aliases.
   - Floating‑point differences between batch (pandas) and online (dict) paths.
 - **Stretch goal:** Deploy the fraud API to a local `kind` cluster with a Helm chart, HPA on CPU 70 %, and readiness/liveness probes [Gambar 9].
+- **Reading & reference repos:** [docs/05-reading-list.md#m08](../docs/05-reading-list.md#m08) (⭐ = read first)

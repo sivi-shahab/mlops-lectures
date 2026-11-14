@@ -33,3 +33,4 @@
   - Uncommitted code at run time (`git_commit` points to stale code) — fail the run if `git status --porcelain` is non‑empty.
   - Non‑deterministic XGBoost due to `n_jobs` / `tree_method` without seed.
 - **Stretch goal:** Add Optuna hyperparameter search with each trial as a nested MLflow run; compare with Weights & Biases [Gambar 6] for the same 10 trials.
+- **Reading & reference repos:** [docs/05-reading-list.md#m03](../docs/05-reading-list.md#m03) (⭐ = read first)

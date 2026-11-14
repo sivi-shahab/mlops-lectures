@@ -18,6 +18,7 @@ A **project‑based MLOps syllabus** for banking/fintech, derived from a 12‑im
 | 5. Datasets, synthetic data, repo structure, environment | [docs/02-datasets-and-environment.md](docs/02-datasets-and-environment.md) |
 | 6. Capstone (architecture, milestones, rubric) | [capstone/README.md](capstone/README.md) |
 | 7. Assessment, weekly schedule, dependency map | [docs/03-assessment-and-schedule.md](docs/03-assessment-and-schedule.md) |
+| Reading list: books, papers, docs, GitHub repos, regulation (per module) | [docs/05-reading-list.md](docs/05-reading-list.md) |
 | Risks, assumptions, clarifying questions | [docs/04-risks-assumptions-questions.md](docs/04-risks-assumptions-questions.md) |
 
 ## Modules
@@ -41,7 +42,9 @@ Lifecycle from the images: `Data → Train → Track → Register → Serve → 
 | M13 | [Capstone](modules/M13-capstone.md) | 13 | 1, 2 | 11–12 |
 | | **Total** | **96** | | |
 
-Every module has a **Task A (Fraud Detection)** and a **Task B (Credit Scoring)** with measurable acceptance criteria.
+Every module has a **Task A (Fraud Detection)** and a **Task B (Credit Scoring)** with measurable acceptance criteria, plus a link to its [reading list](docs/05-reading-list.md).
+
+**Start here:** Chip Huyen, *Designing Machine Learning Systems* · [Fraud Detection Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) · Siddiqi, *Intelligent Credit Scoring* · [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) · [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML).
 
 ## Quick start
 

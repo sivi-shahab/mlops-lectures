@@ -31,3 +31,4 @@
   - Training fraud models on the most recent weeks whose labels are not yet mature → artificially low fraud rate.
   - Heavy compute inside the Airflow scheduler container.
 - **Stretch goal:** Port the fraud DAG to Kubeflow Pipelines or Prefect and write a 1‑page comparison (ops overhead, UI, retries).
+- **Reading & reference repos:** [docs/05-reading-list.md#m04](../docs/05-reading-list.md#m04) (⭐ = read first)

@@ -33,3 +33,4 @@
   - Tests that depend on the MLflow server being up — mock or use a file‑based tracking URI in CI.
   - Secrets (MLflow / registry credentials) echoed in logs.
 - **Stretch goal:** Add CML or a PR comment bot that posts the metric diff between the PR model and the current champion.
+- **Reading & reference repos:** [docs/05-reading-list.md#m07](../docs/05-reading-list.md#m07) (⭐ = read first)

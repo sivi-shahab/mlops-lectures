@@ -40,3 +40,4 @@
   - Training credit models only on approved applicants without acknowledging reject bias.
   - Training/serving skew from re‑implemented transforms [Gambar 4].
 - **Stretch goal:** Add an online store (Redis) for Feast and measure online feature retrieval p95 < 10 ms.
+- **Reading & reference repos:** [docs/05-reading-list.md#m02](../docs/05-reading-list.md#m02) (⭐ = read first)
