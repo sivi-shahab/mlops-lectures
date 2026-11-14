@@ -24,7 +24,9 @@
 | Image content reflects a churn/generic example, not banking | Low | Banking specifics are explicitly labeled `[TAMBAHAN]` |
 | Use of real customer data in exercises | Low / severe | Repository allows only synthetic or public data; PII tests in M12 |
 
-## Clarifying questions (max 3)
+## Clarifying questions (max 3) — answered 2026-11-14
+
+All three defaults confirmed by the program owner: intermediate level, 12 weeks × 8 h; docker compose core with Kubernetes as stretch; concept-level regulatory mapping (clause numbers still to be verified by Compliance).
 
 1. **Level and time budget:** Is the learner profile really intermediate, and is 12 weeks × 8 h/week correct? (This drives all hour allocations.)
 2. **Target deployment platform:** Should production‑like deployment be docker compose only, or must Kubernetes (or a specific cloud/on‑prem platform used by the bank) be a core module rather than a stretch goal?

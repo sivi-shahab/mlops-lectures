@@ -70,7 +70,7 @@ The 12 source infographics ("Tech Fusionist" series) are third‑party content a
 
 ## Risks, assumptions & open questions
 
-See [docs/04-risks-assumptions-questions.md](docs/04-risks-assumptions-questions.md). The three questions that matter most:
+See [docs/04-risks-assumptions-questions.md](docs/04-risks-assumptions-questions.md). The three key questions below were **confirmed with the defaults** (2026-11-14):
 
 1. Is the learner level intermediate and the budget 12 weeks × 8 h?
 2. Must Kubernetes (or the bank's target platform) be core instead of a stretch goal?
